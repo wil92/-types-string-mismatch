@@ -1,0 +1,15 @@
+{
+  "name": "@types/string-mismatch",
+  "version": "1.0.0",
+  "description": "TypeScript Typings for string-mismatch library",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Guillermo ggjnez92@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
