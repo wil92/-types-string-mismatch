@@ -10,5 +10,9 @@ This package contains type definitions for string-mismatch (https://github.com/w
 
 Files were exported from https://github.com/wil92/-types-string-mismatch.
 
+# License
+
+- [Apache-2.0](./LICENSE.md)
+
 # Credits
 These definitions were written by [wil92](https://github.com/wil92).

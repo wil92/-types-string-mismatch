@@ -3,12 +3,31 @@
   "version": "1.0.0",
   "description": "TypeScript Typings for string-mismatch library",
   "main": "index.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": {},
+  "keywords": [
+    "string",
+    "levenshtein",
+    "difference",
+    "mismatch",
+    "compare",
+    "match",
+    "similarity",
+    "string distance"
+  ],
+  "author": {
+    "name": "wil92",
+    "email": "ggjnez92@gmail.com",
+    "url": "https://github.com/wil92"
   },
-  "keywords": [],
-  "author": "Guillermo ggjnez92@gmail.com",
-  "license": "ISC",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wil92/-types-string-mismatch/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wil92/-types-string-mismatch"
+  },
+  "homepage": "https://github.com/wil92/-types-string-mismatch",
   "devDependencies": {
     "typescript": "^4.3.2"
   }
